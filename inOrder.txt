@@ -1,0 +1,3 @@
+In order: left, middle, right
+
+middle can be known as the root
